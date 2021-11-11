@@ -1,5 +1,5 @@
 # GreatestGiftInc
-Greatest Gift is an online gifting platform!
+Greatest Gift is a financial gifting platform for children's savings!
 
 Visit our website to see the platform, and start sending gifts today:
-Https://GreatestGiftApp.com
+https://www.GreatestGiftApp.com
